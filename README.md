@@ -36,4 +36,8 @@ Objetivo: Enseñar a los estudiantes a visualizar y analizar datos, con el progr
 
 #### Referencias:
 
+- [https://r-statistics.co/](https://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
+- [https://epirhandbook.com/](https://epirhandbook.com/en/ggplot-basics.html)
+- [https://www.cedricscherer.com/](https://www.cedricscherer.com/2022/08/09/2-day-workshop-on-graphic-design-with-ggplot2-at-rstudioconf-2022/)
+- [https://r-graph-gallery.com/](https://r-graph-gallery.com/272-basic-scatterplot-with-ggplot2.html)
 
