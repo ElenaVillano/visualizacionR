@@ -1,8 +1,8 @@
 # Taller de vistualización de datos
 
-Por Elena Villalobos
+#### Por Elena Villalobos
 
-Objetivo: Enseñar a los estudiantes a visualizar y analizar datos, con el programa R.
+**Objetivo:** Enseñar a los estudiantes a visualizar y analizar datos, con el programa R.
 
 ## Temario:
 
